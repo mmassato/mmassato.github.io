@@ -90,24 +90,32 @@ analytics:
     tracking_id          :
     anonymize_ip         : # true, false (default)
 
-
 # Site Author
 author:
   name             : "Mayumi Assato"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Bio TBD"
   location         : "Sao Paulo, Brazil"
-  #email            :
+  email            : "marianaassato@hotmail.com"
   links:
-  - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:marianaassato@hotmail.com"
-  - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin-in"
-      url: "https://www.linkedin.com/in/mayumi-assato-0991/"
-  - label: "GitHub"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      # url: "mailto:your.name@email.com"
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      # url: "https://your-website.com"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      # url: "https://twitter.com/"
+    - label: "Facebook"
+      icon: "fab fa-fw fa-facebook-square"
+      # url: "https://facebook.com/"
+    - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/mmassato"
+      # url: "https://github.com/"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      # url: "https://instagram.com/"
 
 # Site Footer
 footer:
