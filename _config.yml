@@ -99,15 +99,15 @@ author:
   location         : "Sao Paulo, Brazil"
   email            :
   links:
-    - label: "Email"
+  - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:marianaassato@hotmail.com"
-    - label: "LinkedIn"
+  - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/mayumi-assato-0991/"
   - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:"https://github.com/mmassato"
+      url: "https://github.com/mmassato"
 
 # Site Footer
 footer:
@@ -120,7 +120,7 @@ footer:
       url: "https://www.linkedin.com/in/mayumi-assato-0991/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url:"https://github.com/mmassato"
+      url: "https://github.com/mmassato"
    
 # Reading Files
 include:
