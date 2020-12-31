@@ -97,7 +97,7 @@ author:
   bio              : "Bio TBD"
   location         : "Sao Paulo, Brazil"
   email            : "marianaassato@hotmail.com"
-   links:
+  links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       # url: "mailto:your.name@email.com"
